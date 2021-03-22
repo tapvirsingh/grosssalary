@@ -5,7 +5,7 @@ using namespace std;
 
 int main(void){
 
-    // Ask the user input the basic salary.
+    // Ask the user inttput the basic salary.
     cout << "Enter basic salary : ";
 
     // declare variables to store basic, hra, da and gross.
